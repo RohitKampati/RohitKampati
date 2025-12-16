@@ -1,6 +1,6 @@
 # Rohit-Kampati
 
-# Hello everyone, I'm Raghu Naga Rohit Kampati
+# Hello everyone 👋 , I'm Raghu Naga Rohit Kampati
 
 🎓 **Master of Computer Applications (MCA) Graduate**
 💻 **Software Developer | Python | Java | Full-Stack Enthusiast**
