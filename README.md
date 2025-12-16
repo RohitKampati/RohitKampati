@@ -32,7 +32,7 @@ Motivated Computer Applications postgraduate seeking to begin my career in a gro
 | Web Technologies         | HTML5, CSS3                                  |
 | Frameworks               | Django                                       |
 | Databases                | MySQL, MongoDB                               |
-| Other Skills             | Networking Protocols, Git & GitHub, Debugging |
+| Other Skills             | Networking Protocols                         |
 
 
 ---
