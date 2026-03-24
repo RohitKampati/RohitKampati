@@ -39,7 +39,7 @@ Motivated Computer Applications postgraduate seeking to begin my career in a gro
 
 ## 📫 Connect With Me
 
-* 📧 Email       : [krnr2003@gmail.com](mailto:rohitkampati@gmail.com)
+* 📧 Email       : [rohitkampati@gmail.com](mailto:rohitkampati@gmail.com)
 * 📞 Phone       : 9949679672
 * 💼 LinkedIn    : [https://www.linkedin.com/in/raghunagarohitkampati](https://www.linkedin.com/in/raghunagarohitkampati)
 
