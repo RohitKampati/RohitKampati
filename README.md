@@ -42,7 +42,7 @@ Motivated Computer Applications postgraduate seeking to begin my career in a gro
 * 📧 Email       : [rohitkampati@gmail.com](mailto:rohitkampati@gmail.com)
 * 📞 Phone       : 9949679672
 * 💼 LinkedIn    : [https://www.linkedin.com/in/raghunagarohitkampati](https://www.linkedin.com/in/raghunagarohitkampati)
-Portfolio : https://myportfolio-flax-nu-96.vercel.app/
+*    Portfolio   : https://myportfolio-flax-nu-96.vercel.app/
 ---
 
 ⭐ *Open to entry-level roles, internships, and opportunities in Software Development, Python, and Full-Stack Development.*
