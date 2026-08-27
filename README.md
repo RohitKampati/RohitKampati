@@ -191,7 +191,7 @@ Scalable Production Applications
 - 📧 **Email:** [rohitkampati@gmail.com](mailto:rohitkampati@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/raghunagarohitkampati](https://linkedin.com/in/raghunagarohitkampati)
 - 💻 **GitHub:** [github.com/RohitKampati](https://github.com/RohitKampati)
-- 📄 **Resume:** ([https://drive.google.com/file/d/17S8KbXsAfCJGTlF_h5Qdm_IXNnyKO3PA/view?usp=sharing](https://drive.google.com/file/d/17S8KbXsAfCJGTlF_h5Qdm_IXNnyKO3PA/view?usp=sharing)
+- 📄 **Resume:** [https://drive.google.com/file/d/17S8KbXsAfCJGTlF_h5Qdm_IXNnyKO3PA/view?usp=sharing](https://drive.google.com/file/d/17S8KbXsAfCJGTlF_h5Qdm_IXNnyKO3PA/view?usp=sharing)
 
 ---
 
