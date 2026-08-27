@@ -184,6 +184,8 @@ AWS EC2 + Amazon S3
         ↓
 Scalable Production Applications
 
+```
+
 ## 📫 Let's Connect
 
 - 📧 **Email:** [rohitkampati@gmail.com](mailto:rohitkampati@gmail.com)
