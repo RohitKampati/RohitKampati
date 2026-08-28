@@ -192,7 +192,7 @@ Scalable Production Applications
 - 💼 **LinkedIn:** [linkedin.com/in/raghunagarohitkampati](https://linkedin.com/in/raghunagarohitkampati)
 - 💻 **GitHub:** [github.com/RohitKampati](https://github.com/RohitKampati)
 - 📄 **Resume:** [https://drive.google.com/file/d/17S8KbXsAfCJGTlF_h5Qdm_IXNnyKO3PA/view?usp=sharing](https://drive.google.com/file/d/17S8KbXsAfCJGTlF_h5Qdm_IXNnyKO3PA/view?usp=sharing)
-- **Portfolio:** [myportfolio-flax-nu-96.vercel.app/](https://myportfolio-flax-nu-96.vercel.app/).
+- **Portfolio:** [rohitkampati-portfolio.netlify.app/](https://rohitkampati-portfolio.netlify.app/).
 ---
 
 ## ⭐ Currently Interested In
